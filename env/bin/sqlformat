@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/RajithaHasith/Documents/Learning/Django React/Twittet-Like/env/bin/python3" "$0" "$@"
+'''exec' "/Users/RajithaHasith/Documents/Learning/Django-React/Twittet-Like/env/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
